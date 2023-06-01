@@ -1,3 +1,5 @@
+<div style="text-align: center">
+
 ### Hello! I am Rafael!! =D
 
 ### Since when I was a kid, I liked to use computer and learn things about it. Now I'm 18 years old, I aim to be a developer!
@@ -21,3 +23,5 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rafaelautieri)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAutieri&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
