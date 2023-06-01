@@ -24,4 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAutieri&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![githubgif](https://github.com/RafaelAutieri/RafaelAutieri/assets/127115203/b7ee04a0-99a3-4203-b5ea-a91716bfdf31)
+
 </div>
