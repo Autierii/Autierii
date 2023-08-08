@@ -1,6 +1,6 @@
 ### Hello! I am Rafael!! =D
 
-### Since I was a kid, I liked to use the computer and learn things about it. Now I'm 18 years old, I aim to be a developer!
+### Since I was a kid, I liked to use the computer and learn things about it. Now I'm 19 years old, I aim to be a developer!
 
 ### I am studying software engineering on a university in São Paulo, named FIAP. <br> <br>
 
