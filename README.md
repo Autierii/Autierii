@@ -64,14 +64,24 @@ Since I was a kid, I’ve always been passionate about computers and learning ho
 
 ---
 
+<img
+    align="left"
+    alt="Github Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Autierii&show_icons=true&theme=radical&include_all_commits=true"
+/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelAutieri&theme=dracula" alt="Profile details" />
-</div>
+<img
+    align="left"
+    alt="Github Stats"
+    height="200px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autierii&theme=radical&layout-compact&custom_title=Linguagens"
+/>
 
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelAutieri&theme=dracula&exclude=Jupyter%20Notebook" alt="Top languages by repositories" height="170" />&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelAutieri&theme=dracula&exclude=Jupyter%20Notebook" alt="Top languages by commits" height="170" />
-</div>
-
+<img
+    align="left"
+    alt="City"
+    height="500px"
+    src="https://github.com/user-attachments/assets/206fd0f7-436a-4958-b851-77dd530b5351"
+/>
