@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rafael Autieri
 
-**Building [clico.ai](https://app.clico.ai) · Software Engineering student at FIAP (final semester) · São Paulo, Brazil**
+**Developer of [Clico](https://app.clico.ai) · Software Engineering student at FIAP (final semester) · São Paulo, Brazil**
 
 <a href="https://www.linkedin.com/in/rafael-autieri-a88234116/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rafaelautieri9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -16,7 +16,7 @@
 
 Since I was a kid I've been passionate about computers and how they work — today I'm turning that into a career as a **Software Developer**.
 
-- 🚀 My main project right now is **[clico.ai](https://app.clico.ai)** — that's where most of my time and energy goes
+- 🚀 I'm the developer of **[Clico](https://app.clico.ai)**
 - 🎓 In the **last semester** of my **B.Sc. in Software Engineering** at **FIAP** (São Paulo) — graduating in **2026**
 - 🔭 Day to day I work with **full-stack web apps** (React + TypeScript + Node), **REST APIs** and **computer vision** models that run on mobile
 - 🤖 Also into hardware: Arduino firmware for a 2WD robot in the FIAP Maker Lab
@@ -25,13 +25,7 @@ Since I was a kid I've been passionate about computers and how they work — tod
 
 ---
 
-## 🚀 Main project
-
-### ⭐ [clico.ai](https://app.clico.ai)
-
-My main focus today. <!-- TODO: add a one-line description of what clico.ai does and its stack -->
-
-## 📁 Other projects
+## 📁 Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
